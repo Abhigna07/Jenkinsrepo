@@ -22,4 +22,9 @@ public class jenkinsclass {
   public void jenkinstest3() {
 	  System.out.println("Jenkins maven testing new3");
   }
+  
+  @Test
+  public void jenkinstest4() {
+	  System.out.println("Jenkins maven testing new4");
+  }
 }
