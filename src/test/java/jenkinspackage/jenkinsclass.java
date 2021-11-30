@@ -7,4 +7,9 @@ public class jenkinsclass {
   public void jenkinstest() {
 	  System.out.println("Jnekins maven testing");
   }
+  
+  @Test
+  public void jenkinstest1() {
+	  System.out.println("Jenkins maven testing new");
+  }
 }
