@@ -12,4 +12,9 @@ public class jenkinsclass {
   public void jenkinstest1() {
 	  System.out.println("Jenkins maven testing new");
   }
+  
+  @Test
+  public void jenkinstest2() {
+	  System.out.println("Jenkins maven testing new2");
+  }
 }
